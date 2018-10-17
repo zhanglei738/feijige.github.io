@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: 18516595660@163.com
 description: "大数据 | 机器学习 | Python | 深度学习 |这里是 @飞机哥 的个人博客，与你一起发现更大的世界"
 keyword: "大数据 | 机器学习 | Python | 深度学习 |"
-url: "https://feijige.cn"              # your host, for absolute URL
+url: "feijige.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
